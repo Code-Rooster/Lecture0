@@ -1,0 +1,17 @@
+h1{
+    color: steelblue;
+    text-align: center;
+}
+
+p{
+    color: rebeccapurple;
+    text-align: center;
+    font-size: small;
+}
+
+#TestDiv{
+    border: 3px solid steelblue;
+    font-family: fantasy, Arial, Helvetica, sans-serif;
+    font-size: 56px;
+    font-weight: bold;
+}
